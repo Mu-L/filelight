@@ -1,13 +1,13 @@
 # translation of filelight.po to Italian
 #
-# SPDX-FileCopyrightText: 2017, 2018, 2020, 2021, 2022, 2024, 2025, 2026 Paolo Zamponi <feus73@gmail.com>
+# SPDX-FileCopyrightText: 2017-2018, 2020-2022, 2024-2026 Paolo Zamponi <feus73@gmail.com>
 # Federico Zenith <federico.zenith@member.fsf.org>, 2005, 2006, 2009, 2010, 2013, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: filelight\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-04-23 00:47+0000\n"
-"PO-Revision-Date: 2026-01-29 21:10+0100\n"
+"PO-Revision-Date: 2026-04-23 16:33+0200\n"
 "Last-Translator: Paolo Zamponi <feus73@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 25.12.1\n"
+"X-Generator: Lokalize 26.04.0\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -275,12 +275,10 @@ msgid "Open Handbook"
 msgstr "Apri il manuale"
 
 #: src/qml/main.qml:96
-#, fuzzy, kde-format
-#| msgctxt "@title"
-#| msgid "Welcome to Filelight"
+#, kde-format
 msgctxt "@action opens about app page"
 msgid "About Filelight"
-msgstr "Benvenuto in Filelight"
+msgstr "Informazioni su Filelight"
 
 #: src/qml/main.qml:173
 #, kde-format
